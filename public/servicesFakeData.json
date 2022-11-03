@@ -1,0 +1,198 @@
+[
+    {
+        "serviceName": "Electrical System",
+        "price": "$20.00",
+        "image": "https://i.ibb.co/8K6p4VJ/1.jpg",
+        "video": "https://www.youtube.com/watch?v=P7fi4hP_y80",
+        "brocheur": "shorturl.at/cnqw4",
+        "serviceDetails_First_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Second_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Third_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceFeature": [
+            {
+                "serviceFeature_One": "Instant Car Services",
+                "serviceFeature_One_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Two": "24/7 Quality Service",
+                "serviceFeature_Two_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Three": "Easy Customer Service",
+                "serviceFeature_Three_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Four": "Quality Cost Service",
+                "serviceFeature_Four_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            }
+        ]
+    },
+    {
+        "serviceName": "Engine Diagnostics",
+        "price": "$20.00",
+        "image": "https://i.ibb.co/Cwmzq49/2.jpg",
+        "video": "https://www.youtube.com/watch?v=P7fi4hP_y80",
+        "brocheur": "shorturl.at/cnqw4",
+        "serviceDetails_First_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Second_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Third_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceFeature": [
+            {
+                "serviceFeature_One": "Instant Car Services",
+                "serviceFeature_One_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Two": "24/7 Quality Service",
+                "serviceFeature_Two_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Three": "Easy Customer Service",
+                "serviceFeature_Three_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Four": "Quality Cost Service",
+                "serviceFeature_Four_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            }
+        ]
+    },
+    {
+        "serviceName": "Auto Car Repair",
+        "price": "$20.00",
+        "image": "https://i.ibb.co/CQ63YDC/3.jpg",
+        "video": "https://www.youtube.com/watch?v=P7fi4hP_y80",
+        "brocheur": "shorturl.at/cnqw4",
+        "serviceDetails_First_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Second_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Third_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceFeature": [
+            {
+                "serviceFeature_One": "Instant Car Services",
+                "serviceFeature_One_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Two": "24/7 Quality Service",
+                "serviceFeature_Two_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Three": "Easy Customer Service",
+                "serviceFeature_Three_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Four": "Quality Cost Service",
+                "serviceFeature_Four_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            }
+        ]
+    },
+    {
+        "serviceName": "Automatic Services",
+        "price": "$20.00",
+        "image": "https://i.ibb.co/cgp3ktR/4.jpg",
+        "video": "https://www.youtube.com/watch?v=P7fi4hP_y80",
+        "brocheur": "shorturl.at/cnqw4",
+        "serviceDetails_First_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Second_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Third_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceFeature": [
+            {
+                "serviceFeature_One": "Instant Car Services",
+                "serviceFeature_One_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Two": "24/7 Quality Service",
+                "serviceFeature_Two_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Three": "Easy Customer Service",
+                "serviceFeature_Three_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Four": "Quality Cost Service",
+                "serviceFeature_Four_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            }
+        ]
+    },
+    {
+        "serviceName": "Engine Oil Change",
+        "price": "$20.00",
+        "image": "https://i.ibb.co/YNpTvN0/service-Banner.jpg",
+        "video": "https://www.youtube.com/watch?v=P7fi4hP_y80",
+        "brocheur": "shorturl.at/cnqw4",
+        "serviceDetails_First_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Second_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Third_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceFeature": [
+            {
+                "serviceFeature_One": "Instant Car Services",
+                "serviceFeature_One_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Two": "24/7 Quality Service",
+                "serviceFeature_Two_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Three": "Easy Customer Service",
+                "serviceFeature_Three_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Four": "Quality Cost Service",
+                "serviceFeature_Four_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            }
+        ]
+    },
+    {
+        "serviceName": "Battery Charge",
+        "price": "$20.00",
+        "image": "https://i.ibb.co/9VQ2P8R/6.jpg",
+        "video": "https://www.youtube.com/watch?v=P7fi4hP_y80",
+        "brocheur": "shorturl.at/cnqw4",
+        "serviceDetails_First_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Second_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Third_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceFeature": [
+            {
+                "serviceFeature_One": "Instant Car Services",
+                "serviceFeature_One_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Two": "24/7 Quality Service",
+                "serviceFeature_Two_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Three": "Easy Customer Service",
+                "serviceFeature_Three_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Four": "Quality Cost Service",
+                "serviceFeature_Four_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            }
+        ]
+    },
+    {
+        "serviceName": "Full Car Repair",
+        "price": "$20.00",
+        "image": "https://i.ibb.co/XCW2jWz/7.jpg",
+        "video": "https://www.youtube.com/watch?v=P7fi4hP_y80",
+        "brocheur": "shorturl.at/cnqw4",
+        "serviceDetails_First_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Second_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceDetails_Third_Paragraph": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "serviceFeature": [
+            {
+                "serviceFeature_One": "Instant Car Services",
+                "serviceFeature_One_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Two": "24/7 Quality Service",
+                "serviceFeature_Two_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Three": "Easy Customer Service",
+                "serviceFeature_Three_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            },
+            {
+                "serviceFeature_Four": "Quality Cost Service",
+                "serviceFeature_Four_Details": "It uses a dictionary of over 200 Latin words, combined with a model sentence structures."
+            }
+        ]
+    }
+]
