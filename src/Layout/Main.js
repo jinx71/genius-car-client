@@ -6,7 +6,7 @@ import Header from '../Components/Shared/Header/Header';
 const Main = () => {
     return (
         <>
-            <div className='container mx-auto'>
+            <div className='max-w-6xl mx-auto'>
                 <Header></Header>
                 <Outlet></Outlet>
             </div>
