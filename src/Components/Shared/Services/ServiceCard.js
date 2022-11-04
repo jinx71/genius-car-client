@@ -1,9 +1,9 @@
 import React from 'react';
 import { BsArrowRightShort } from 'react-icons/bs';
 const ServiceCard = ({ service, handleClick }) => {
-    console.log(service)
+    // console.log(service)
     const { _id, serviceName, image, price } = service;
-    console.log(image)
+    // console.log(image)
     return (
         <div className="card shadow-xl border border-gray-200">
             <figure className="px-5 pt-5">
