@@ -1,21 +1,33 @@
 import React from 'react';
-import { BsArrowRightShort } from 'react-icons/bs';
+import { BsArrowRightShort, BsStarFill, BsStarHalf } from 'react-icons/bs';
 const ProductCard = ({ product, handleClick }) => {
     console.log(product)
     const { rating, name, image, price } = product;
+
     console.log(image)
     return (
         <div className="card shadow-xl border border-gray-200">
-            <figure className="px-5 pt-5">
-                <img src={image} alt="Shoes" className="rounded-xl h-56" />
-            </figure>
+            <div className='bg-gray-100 rounded rounded-lg m-5 py-10'>
+                <figure className="px-5 pt-5">
+                    <img src={image} alt="Shoes" className="rounded-xl w-32 h-32" />
+                </figure>
+            </div>
             <div className="card-body">
-                <h2 className="card-title text-3xl">{name}</h2>
+                <p className='text-2xl font-bold text-primary text-center flex justify-center gap-2 mb-5'>
 
-                <div className="card-actions justify-end items-center">
-                    <p className='text-2xl font-bold text-primary'>{rating}</p>
+                    <BsStarFill></BsStarFill>
+                    <BsStarFill></BsStarFill>
+                    <BsStarFill></BsStarFill>
+                    <BsStarFill></BsStarFill>
+                    <BsStarHalf></BsStarHalf>
+
+                </p>
+                <h2 className="font-bold text-2xl text-center mb-2">{name}</h2>
+
+                <div className="card-actions flex-col justify-end items-center">
+
                     <p className='text-2xl font-bold text-primary'>{price}</p>
-                    <button className="text-primary text-5xl" onClick={() => handleClick(name)}><BsArrowRightShort></BsArrowRightShort></button>
+                    {/* <button className="text-primary text-5xl" onClick={() => handleClick(name)}><BsArrowRightShort></BsArrowRightShort></button> */}
                 </div>
             </div>
         </div>

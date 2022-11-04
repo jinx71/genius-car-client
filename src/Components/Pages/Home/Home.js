@@ -5,6 +5,7 @@ import ContactInfo from '../../Shared/ContactInfo/ContactInfo';
 import Header from '../../Shared/Header/Header';
 import Products from '../../Shared/Products/Products';
 import Services from '../../Shared/Services/Services';
+import Team from '../../Shared/Team/Team';
 
 const Home = () => {
     return (
@@ -14,6 +15,7 @@ const Home = () => {
             <Services></Services>
             <ContactInfo></ContactInfo>
             <Products></Products>
+            <Team></Team>
         </div>
     );
 };
